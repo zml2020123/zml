@@ -1,0 +1,17 @@
+platformName: Android
+
+platformVersion: 5.1.1
+
+deviceName: 127.0.0.1:62025
+
+app: C:\Users\Shuqing\Desktop\Appium software\chapter4\App\kaoyan3.1.0.apk
+
+noReset: False
+
+appPackage: com.tal.kaoyan
+
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+
+ip: 127.0.0.1
+
+port: 4723
